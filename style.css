@@ -91,3 +91,21 @@ button {
 #square4.lit {
   background: blue;
 }
+
+#square5 {
+  background: #FAD47D;
+}
+
+#square5:active,
+#square5.lit {
+  background: orange;
+}
+
+#square6 {
+  background: #FF4DE9;
+}
+
+#square6:active,
+#square6.lit {
+  background: purple;
+}
