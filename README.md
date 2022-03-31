@@ -85,7 +85,7 @@ Losing Game & Unique Pattern
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://www.loom.com/share/a801b378556e4f0896f56af314b403fc)
 
 ## License
 
