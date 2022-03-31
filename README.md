@@ -41,36 +41,46 @@ The following **additional** features are implemented:
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 
 Basic Gameplay
-![](https://cdn.glitch.global/cb286591-95ba-42b0-a7be-881bff619210/Basic%20Gameplay.gif?v=1648672061034)
+![](https://cdn.glitch.global/cb286591-95ba-42b0-a7be-881bff619210/Basic%20Gameplay.gif?v=1648747190282)
 Losing Game & Unique Pattern
-![](https://cdn.glitch.global/cb286591-95ba-42b0-a7be-881bff619210/Lose%20Game.gif?v=1648672147185)
+![](https://cdn.glitch.global/cb286591-95ba-42b0-a7be-881bff619210/Lose%20Game.gif?v=1648747194469)
 ![](gif3-link-here)
 ![](gif4-link-here)
 
 ## Reflection Questions
 
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
+   
    I used prior knowledge from a freeCodeCamp course on CSS/HTML, then I also looked at w3schools.com, javatpoint.com, 
    and developer.mozilla.org for CSS & javascript info.
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
-   The approach to constructing the program was a little weird for me, because we declared many variables, gave structure to the program,
-   and defined most of the game logic without actually defining the guessing system, so I was slightly confused on what progress and
-   guessCounter were for. After working on the guess logic for a bit everything made sense, and in the future I just need to continue
-   with the workshop instead of scaring myself off just because CSS/HTML is very different or because the approach to constructing a
-   website is strange to me.
+   
+   One specific issue was getting the colored border around the game buttons, because I didn't understand that the default styling for buttons
+   isn't solid, but some kind of gradient where one half of the border is lighter/darker than the other half. I was confused for a bit on why
+   my white border was appearing as white and gray, but a visit to w3schools.com clarified the issue. 
+   Overall, the approach to constructing the program was a little weird for me, because we declared many variables, gave structure to the program,
+   and defined most of the game logic without actually defining the guessing system, so I was slightly confused on when/where we were going to increment
+   guessCounter and progress. After working on the guess logic for a bit everything made sense, and it would've been easier if I had just committed to the
+   workshop from the start, instead of taking a rest for spring break. Otherwise, the workshop was fairly straightforward and a good intro to website development.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words)
+   
    I'm interested in how/if web development languages like JS can be used in backend operations, or as a backend interface.
    I'm also curious on the CSS aspect of web development, because I feel as if it requires some graphic design knowledge
    and a different type of creativity than traditional code, but I'm not a graphic designer nor am I very artistic. In a
    professional setting, would a web developer or UI developer be assisted by a graphic design artist, or are you expected
-   to pick up some artistic creativity along the way?
+   to pick up some artistic creativity along the way? I'm also interested in the long-term lifecycle of front-end work, 
+   because if you're working as a front-end engineer for one company for many years, wouldn't there just not be 
+   much front-end work left to do after a certain point, or am I just underestimating the scope of front-end work?
+   In my eyes front-end work primarily includes user-interfaces and websites, but I feel like you can only optimize those so much,
+   so what else is included in the scope of front-end work outside of UI and website design?
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)
+   
    I would've liked to implement a start menu with two modes as options: the traditional mode specified in the prework,
    and an endless mode which would simply continue looping until the user runs out of mistakes/lives, but there would be an accompanying leaderboard for the endless mode.
-   There's other features I'd like to add from the optional features list and my own thoughts, but for a few hour time-frame I would probably stick to the above.
+   There's other features I'd like to add from the optional features list and my own thoughts, but due to the time-frame of a few hours, I would probably stick to the above.
    
 
 ## Interview Recording URL Link
